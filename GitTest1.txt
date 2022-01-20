@@ -1,3 +1,4 @@
 Git is a version control system
 Git is free softwoare
 中文测试3，回退到之前版本之后，再增加一些内容，查看git refflog 
+git管理的是修改
